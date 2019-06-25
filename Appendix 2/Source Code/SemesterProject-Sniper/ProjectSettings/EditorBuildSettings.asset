@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c2ed203d191e26b48962915a5ca07437
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: d3d2aa4b728fda84c8d30acbcb58284b
+  - enabled: 1
+    path: Assets/Scenes/PracticeMode.unity
+    guid: 725195cd51155a849b80abcd02154d01
+  - enabled: 1
+    path: Assets/Scenes/TargetRange.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
